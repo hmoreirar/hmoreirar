@@ -40,4 +40,4 @@ I enjoy mixing design, code and fast iteration — from e-commerce and SaaS to A
 
 ---
 
-[Portfolio](https://www.hmoreira.dev/)) · [LinkedIn](https://linkedin.com/in/hmoreirar) · [Email](mailto:contacto@hmoreira.dev) · [GitHub](https://github.com/hmoreirar)
+[Portfolio](https://www.hmoreira.dev/) · [LinkedIn](https://linkedin.com/in/hmoreirar) · [Email](mailto:contacto@hmoreira.dev) · [GitHub](https://github.com/hmoreirar)
